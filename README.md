@@ -1,8 +1,6 @@
-# CSBC1010 Assigment 3 Client App - Notes
+# notes application front end
 
-```diff
-- Important: you do not need to modify anything in this repo.
-```
+
 
 This is the Presentation Tier for a simple Notes app. Built in [React,js](https://reactjs.org/), where users can:
 1. View all notes with notes’ content, creation date and last modified date,
@@ -18,7 +16,7 @@ This is the Presentation Tier for a simple Notes app. Built in [React,js](https:
 
 1. Clone this repo
 ```bash
-git clone https://github.com/vivienfan/csbc1010-notes-app-client.git
+git clone https://github.com/sravanthi-reddy/notes-app-react.git
 ```
 
 2. Install dependencies
@@ -42,4 +40,4 @@ npm start
 - [npm v6+](https://www.npmjs.com/)
 
 ### Related Project
-- [CSBC1010 Assigment 3 Server App - Notes](https://github.com/vivienfan/csbc1010-notes-app-server)
+- [notes application API - Notes](https://github.com/sravanthi-reddy/notes-app-api.git)
